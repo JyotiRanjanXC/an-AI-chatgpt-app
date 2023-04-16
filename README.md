@@ -1,0 +1,3 @@
+# an-AI-chatgpt-app
+A chatbot system uses conversational artificial intelligence (AI) technology to simulate a discussion (or a chat) with a user in natural language via messaging applications, websites, mobile apps or the telephone. It uses rule-based language applications to perform live chat functions in response to real-time user interactions.
+ChatGPT is a new artificial intelligence (AI) technology developed by openAI. I have created  chatGPT app by using openAI api key with react and node js. In this project I have done openAI integration, client api handling , Auto typing bot response logic . 
